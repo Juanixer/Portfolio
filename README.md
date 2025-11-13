@@ -21,7 +21,7 @@ Estudiante de 4º año de **Ingeniería de Sistemas de Información** en la **Un
 
 ## 🌟 Mi Portafolio
 
-**[🔗 Ver Portafolio →](https://juanixer.github.io/portfolio)**
+**[🔗 Ver Portafolio →](https://juanixer.github.io/Portfolio)**
 
 Portafolio interactivo con navegación full-page, animaciones personalizadas y diseño responsive.
 
